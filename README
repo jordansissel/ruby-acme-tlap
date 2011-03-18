@@ -1,4 +1,7 @@
-In the spirit of Perl's ancient tradition of Acme modules.
+In the spirit of Perl's ancient tradition of Acme modules. A quick search of
+rubygems in March of 2011 found no Acme gems. That's lame.
+
+Let's get started - 
 
 Acme::TLAP - Talk Like A Pirate
 
